@@ -1,0 +1,9 @@
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\bin\Release\CG_lab4.exe
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\bin\Release\CG_lab4.exe.config
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\obj\Release\CG_lab4.Main.resources
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\obj\Release\CG_lab4.Properties.Resources.resources
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\obj\Release\CG_lab4.csproj.GenerateResource.Cache
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\obj\Release\CG_lab4.exe
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\obj\Release\CG_lab4.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\bin\Release\CG_lab4.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\4\CG_lab4\CG_lab4\obj\Release\CG_lab4.csprojResolveAssemblyReference.cache
